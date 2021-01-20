@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/kamppis/static/js/main.8d978630.chunk.js",
+    "main.js.map": "/kamppis/static/js/main.8d978630.chunk.js.map",
+    "runtime-main.js": "/kamppis/static/js/runtime-main.98989053.js",
+    "runtime-main.js.map": "/kamppis/static/js/runtime-main.98989053.js.map",
+    "static/js/2.6e65ad45.chunk.js": "/kamppis/static/js/2.6e65ad45.chunk.js",
+    "static/js/2.6e65ad45.chunk.js.map": "/kamppis/static/js/2.6e65ad45.chunk.js.map",
+    "static/js/3.ed04c1d5.chunk.js": "/kamppis/static/js/3.ed04c1d5.chunk.js",
+    "static/js/3.ed04c1d5.chunk.js.map": "/kamppis/static/js/3.ed04c1d5.chunk.js.map",
+    "index.html": "/kamppis/index.html",
+    "static/js/2.6e65ad45.chunk.js.LICENSE.txt": "/kamppis/static/js/2.6e65ad45.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98989053.js",
+    "static/js/2.6e65ad45.chunk.js",
+    "static/js/main.8d978630.chunk.js"
+  ]
+}
